@@ -1,0 +1,9 @@
+Removes the furigana from the NHK NewsWeb Easy Page (http://www3.nhk.or.jp/news/easy/).
+
+To add to Chrome:
+
+1. Clone remove-furigana repository
+2. Go to Tools -> Extensions in Chrome
+3. Check "Developer mode"
+4. Click "Load unpacked extension"
+5. Add remove-furigana directory
