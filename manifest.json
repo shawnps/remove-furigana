@@ -1,0 +1,11 @@
+{
+  "name": "Remove Furigana",
+  "description": "Remove furigana from NHK NewsWeb Easy page (http://www3.nhk.or.jp/news/easy/)",
+  "version": "1",
+  "content_scripts": [
+    {
+      "js": ["remove_furigana.js"],
+      "matches": ["http://www3.nhk.or.jp/news/easy/*"]
+    }
+  ]
+}
